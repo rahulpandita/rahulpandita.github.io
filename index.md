@@ -44,7 +44,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	_To apper In Proceedings of the FSE 2016._
 * Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
 	<b>Discovering Likely Mappings between APIs using Text Mining.</b>
-	_In Proceedings of the 15th SCAM 2015._ ...
+	_In Proceedings of the 15th SCAM 2015._  
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/scam15.pdf)
 * Brittany Johnson, Rahul Pandita, Emerson Murphy-Hill, and Sarah Heckman.
 	<b>Bespoke Tools: Adapted to the Concepts Developers Know.</b>
