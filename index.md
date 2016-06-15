@@ -79,3 +79,53 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	<b>Guided Test Generation for Coverage Criteria</b>.
 	_In Proceedings of the 26th IEEE International Conference on Software Maintenance (ICSM 2010), Timisoara, Romania, September 2010._  
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icsm10.pdf")
+	
+### Other
+
+* Rahul Pandita.
+	<b>Inferring Semantic Information from Natural-Language Software Artifacts</b>.
+	_Doctoral Dissertation, Department of Computer Science, North Carolina State University, August 2015._  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf)
+
+* Wei Yang, Xusheng Xiao, Rahul Pandita, William Enck, and Tao Xie.
+	<b>Improving Mobile Application Security via Bridging User Expectations and Application Behaviors</b>.
+	_[Poster] In Proceedings ACM Symposium and Bootcamp on the Science of Security (HotSoS 2014)_  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/hotsos14poster.pdf)
+
+* Rahul Pandita.
+	<b>Inferring Semantic Information from Natural-Language Software Artifacts</b>.
+	_A Report for Oral-Preliminary Examination Dec 2013_  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/Prelim_Report.pdf)
+
+* <b>22nd USENIX Security Symposium Conference Summaries</b>,
+	USENIX ;login Magazine, Rahul Pandita, Dec, 2013  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](https://www.usenix.org/system/files/login/articles/1312_sec13.pdf)
+
+* Rahul Pandita.
+	<b>Guided Test Generation for Coverage Criteria</b>.
+	_A Report for Qualfier Examination Nov 2010_. A previous version of this report was published in ICSM 2010  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/Prelim_Report.pdf")
+
+____
+
+<a name="activites" class="anchor" href="#activites"><span class="octicon octicon-link"></span></a>
+				
+### Activities
+
+* <b>PC Member</b>: 
+*		32nd IEEE International Conference on Software Maintenance and Evolution
+		- <b>Industry Track</b>
+		[ICSME 2016](http://icsme2016.github.io/team/program-committee.html)"
+*		3rd International Workshop on Programming for Mobile and Touch 
+		[PROMOTO 2015](http://www.promoto2015.org)
+
+* <b>Reviewer</b>: 
+*		Transactions on Software Engineering and Methodology (TOSEM)
+
+* <b>External Reviewer</b>
+*		UbiComp’14, DSN’13, Journal for Empirical Software Engineering’14
+
+*	<b>Co-Reviewer</b>
+*		WWW’13, ICSE’11, FSE’13, ASE’10’14
+
+____
