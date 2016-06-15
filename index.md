@@ -40,83 +40,40 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * Brittany Johnson, Rahul Pandita, Justin Smith, Denae Ford, Sarah Elder, Emerson Murphy-Hill, Sarah Heckman and Caitlin Sadowski.
 	**What We Have Here is a Failure to Communicate! A Cross-Tool Study on Program Analysis Tool Notifications.**
 	_To apper In Proceedings of the FSE 2016._
-						
-						
-				<li>
-					<p>
-						Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
-						<b>Discovering Likely Mappings between APIs using Text Mining</b>.
-						<i>In Proceedings of the 15th SCAM 2015.</i>
-						<br>
-						<a href="./files/scam15.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						Brittany Johnson, Rahul Pandita, Emerson Murphy-Hill, and Sarah Heckman.
-						<b>Bespoke Tools: Adapted to the Concepts Developers Know</b>.
-						<i>In Proceedings of the 10th ESEC FSE NIER 2015.</i>
-						<br>
-						<a href="./files/brittany12fseNier.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						Jason King, Rahul Pandita, and Laurie Williams.
-						<b>Enabling Forensics by Proposing Heuristics for Identifying Loggable User Activity</b>.
-						<i>In Proceedings of the Symposium and Bootcamp on the science of security (HOTSOS'15).</i>
-						<br>
-						<a href="./files/king15hotsos.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						Rahul Pandita, Xusheng Xiao, Wei Yang, William Enck, and Tao Xie.
-						<b>WHYPER: Towards Automating Risk Assessment of Mobile Applications</b>.
-						<i>In Proceedings of the 22nd USENIX Security Symposium (USENIX Security '13).</i>
-						<br>
-						<a href="./files/usenix13.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						John J. Majikes, Rahul Pandita, and Tao Xie.
-						<b> Literature Review of Testing Techniques for Medical Device Software</b>.
-						<i>In Proceedings of the 4th Medical Cyber-Physical Systems Workshop (<b> MCPS 2013</b>), Philadelphia, USA, April 2013.</i>
-						<br>
-						<a href="./files/majikesLitReview.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						Rahul Pandita, Xusheng Xiao, Hao Zhong, Tao Xie, Stephen Oney, and Amit Paradkar.
-						<b>Inferring Method Specifications from Natural Language API Descriptions</b>.
-						<i>In Proceedings of the 34th International Conference on Software Engineering (<b>ICSE 2012</b>), Zurich, Switzerland, July 2012. </i>
-						<br>
-						<a href="./files/icse12.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-				<li>
-					<p>
-						Rahul Pandita, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux.
-						<b>Guided Test Generation for Coverage Criteria</b>.
-						<i>In Proceedings of the 26th IEEE International Conference on Software Maintenance (<b>ICSM 2010</b>), Timisoara, Romania, September 2010. </i>
-						<br>
-						<a href="./files/icsm10.pdf" target="_blank">
-							<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">
-						</a>
-					</p>
-				</li>
-			</ul>
+* Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
+	**Discovering Likely Mappings between APIs using Text Mining.**
+	_In Proceedings of the 15th SCAM 2015._
+	
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/scam15.pdf)
+* Brittany Johnson, Rahul Pandita, Emerson Murphy-Hill, and Sarah Heckman.
+	**Bespoke Tools: Adapted to the Concepts Developers Know.**
+	_In Proceedings of the 10th ESEC FSE NIER 2015._
+
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/brittany12fseNier.pdf)
+							
+* Jason King, Rahul Pandita, and Laurie Williams.
+	<b>Enabling Forensics by Proposing Heuristics for Identifying Loggable User Activity.</b>
+	_In Proceedings of the Symposium and Bootcamp on the science of security (HOTSOS'15)._
+	
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/king15hotsos.pdf)
+							
+* Rahul Pandita, Xusheng Xiao, Wei Yang, William Enck, and Tao Xie.
+	<b>WHYPER: Towards Automating Risk Assessment of Mobile Applications</b>.
+	_In Proceedings of the 22nd USENIX Security Symposium (USENIX Security '13)._
+	
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/usenix13.pdf)
+* John J. Majikes, Rahul Pandita, and Tao Xie.
+	<b> Literature Review of Testing Techniques for Medical Device Software</b>.
+	_In Proceedings of the 4th Medical Cyber-Physical Systems Workshop (MCPS 2013), Philadelphia, USA, April 2013._
+
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/majikesLitReview.pdf)
+* Rahul Pandita, Xusheng Xiao, Hao Zhong, Tao Xie, Stephen Oney, and Amit Paradkar.
+	<b>Inferring Method Specifications from Natural Language API Descriptions</b>.
+	_In Proceedings of the 34th International Conference on Software Engineering (ICSE 2012), Zurich, Switzerland, July 2012._
+
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icse12.pdf)
+* Rahul Pandita, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux.
+	<b>Guided Test Generation for Coverage Criteria</b>.
+	_In Proceedings of the 26th IEEE International Conference on Software Maintenance (ICSM 2010), Timisoara, Romania, September 2010._
+
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icsm10.pdf")
