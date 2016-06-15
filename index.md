@@ -16,10 +16,8 @@ I strongly believe that there is always room for improvement ...
 Contact me at rpandit ~ 'at' ~ ncsu ~ 'dot' ~ edu.
 
 
-Curriculum Vitae
+####Curriculum Vitae
 ----
 
 Linked is my CV. [<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">](./files/rahulpandita.pdf)
 
-			
-[source of this content](http://github.github.com/github-flavored-markdown/sample_content.html)
