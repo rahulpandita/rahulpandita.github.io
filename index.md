@@ -33,20 +33,21 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
-	Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams **Inferring Temporal Constraints from Natural Language API Descriptions.** _To apper In Proceedings of the ICSME 2016._
+	Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams
+	<b>Inferring Temporal Constraints from Natural Language API Descriptions.</b>
+	_To apper In Proceedings of the ICSME 2016._
 * Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin
-	**Veteran Developers’ Contributions and Motivations: An Open Source Perspective.**
+	<b>Veteran Developers’ Contributions and Motivations: An Open Source Perspective.</b>
 	_To apper In Proceedings of the VLHCC 2016._
 * Brittany Johnson, Rahul Pandita, Justin Smith, Denae Ford, Sarah Elder, Emerson Murphy-Hill, Sarah Heckman and Caitlin Sadowski.
-	**What We Have Here is a Failure to Communicate! A Cross-Tool Study on Program Analysis Tool Notifications.**
+	<b>What We Have Here is a Failure to Communicate! A Cross-Tool Study on Program Analysis Tool Notifications.</b>
 	_To apper In Proceedings of the FSE 2016._
 * Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
-	**Discovering Likely Mappings between APIs using Text Mining.**
-	_In Proceedings of the 15th SCAM 2015._
-	
+	<b>Discovering Likely Mappings between APIs using Text Mining.</b>
+	_In Proceedings of the 15th SCAM 2015._ ...
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/scam15.pdf)
 * Brittany Johnson, Rahul Pandita, Emerson Murphy-Hill, and Sarah Heckman.
-	**Bespoke Tools: Adapted to the Concepts Developers Know.**
+	<b>Bespoke Tools: Adapted to the Concepts Developers Know.</b>
 	_In Proceedings of the 10th ESEC FSE NIER 2015._
 
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/brittany12fseNier.pdf)
