@@ -15,9 +15,11 @@ I strongly believe that there is always room for improvement ...
 
 Contact me at rpandit ~ 'at' ~ ncsu ~ 'dot' ~ edu.
 
+<hr>
 
-####Curriculum Vitae
+Curriculum Vitae <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 ----
 
 Linked is my CV. [<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">](./files/rahulpandita.pdf)
 
+<hr>
