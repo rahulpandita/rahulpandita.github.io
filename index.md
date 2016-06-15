@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Bio
+### Bio
 
 
 Hi all…
@@ -18,8 +18,8 @@ Contact me at rpandit ~ 'at' ~ ncsu ~ 'dot' ~ edu.
 <hr>
 
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
-#### Curriculum Vitae 
 
+### Curriculum Vitae 
 
 Linked is my CV. [<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">](./files/rahulpandita.pdf)
 
