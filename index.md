@@ -15,26 +15,11 @@ I strongly believe that there is always room for improvement ...
 
 Contact me at rpandit ~ 'at' ~ ncsu ~ 'dot' ~ edu.
 
-			
 
-			<p>
-				Contact me at rpandit ~ 'at' ~ ncsu ~ 'dot' ~ edu.
-			</p>
+Curriculum Vitae
+----
 
-			<hr>
+Linked is my CV. [<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">](./files/rahulpandita.pdf)
 
-			<h3>
-				<a name="cv" class="anchor" href="#cv">
-					<span class="octicon octicon-link"></span>
-				</a>
-				Curriculum Vitae
-			</h3>
-			<p>
-				<!-- img src="./img/new.png" title="CV" width="25" height="25" border="0"><font color='SlateGray'><i>I am on the job market this year, looking for industrial research positions.</i></font-->
-				Linked is my CV.
-				<a href="./files/rahulpandita.pdf" target="_blank">
-					<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">
-				</a>
-			</p>
 			
 [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html)
