@@ -33,15 +33,15 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
-	Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill
+	Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
 	_To appear: FSE: Visions and Reflections Track 2016._
 
-* Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams
+* Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams.
 	<b>Inferring Temporal Constraints from Natural Language API Descriptions.</b>
 	_To apper In Proceedings of the ICSME 2016._
 	
-* Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin
+* Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin.
 	<b>Veteran Developers’ Contributions and Motivations: An Open Source Perspective.</b>
 	_To apper In Proceedings of the VLHCC 2016._
 	
