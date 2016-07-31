@@ -43,7 +43,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	
 * Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin.
 	<b>Veteran Developers’ Contributions and Motivations: An Open Source Perspective.</b>
-	_To apper In Proceedings of the VLHCC 2016._
+	_To apper In Proceedings of the VLHCC 2016._     
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/patVLHCC.pdf)
 	
 * Brittany Johnson, Rahul Pandita, Justin Smith, Denae Ford, Sarah Elder, Emerson Murphy-Hill, Sarah Heckman and Caitlin Sadowski.
