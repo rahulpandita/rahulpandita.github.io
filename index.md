@@ -47,8 +47,9 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/patVLHCC.pdf)
 	
 * Brittany Johnson, Rahul Pandita, Justin Smith, Denae Ford, Sarah Elder, Emerson Murphy-Hill, Sarah Heckman and Caitlin Sadowski.
-	<b>What We Have Here is a Failure to Communicate! A Cross-Tool Study on Program Analysis Tool Notifications.</b>
-	_To apper In Proceedings of the FSE 2016._
+	<b>A Cross-Tool Communication Study on Program Analysis Tool Notifications.</b>
+	_To apper In Proceedings of the FSE 2016._   
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/brittanyFSE16.pdf)
 	
 * Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
 	<b>Discovering Likely Mappings between APIs using Text Mining.</b>
