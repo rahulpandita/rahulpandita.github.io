@@ -39,7 +39,8 @@ I specifically work on applying [Natural Language Processing techniques on softw
 
 * Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams.
 	<b>Inferring Temporal Constraints from Natural Language API Descriptions.</b>
-	_To apper In Proceedings of the ICSME 2016._
+	_To apper In Proceedings of the ICSME 2016._   
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/panditaICSME2016.pdf)
 	
 * Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin.
 	<b>Veteran Developers’ Contributions and Motivations: An Open Source Perspective.</b>
