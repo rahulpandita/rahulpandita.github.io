@@ -7,7 +7,7 @@ layout: default
 
 Hi all…
 
-I am Rahul Pandita, _senior reseach scientist_ at [Phase Change Software](http://phasechangesoftware.com/)
+I am Rahul Pandita, a _senior reseach scientist_ at [Phase Change Software](http://phasechangesoftware.com/).
 Previously, I worked as a postdoctoral researcher at [Department of Computer Science NCSU](http://www.csc.ncsu.edu/) working with [Dr. Laurie Williams](http://collaboration.csc.ncsu.edu/laurie/) and [Dr. Munindar Singh](http://www.csc.ncsu.edu/faculty/mpsingh/).
 I received my [PhD.](./files/diploma.pdf) from [NCSU](http://www.csc.ncsu.edu/) in Computer Science.
 I like to travel, love to sketch, and enjoy music. Learning to me is a never ending process.
