@@ -37,6 +37,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
 	_To appear: FSE: Visions and Reflections Track 2016._
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/barikFseVar.pdf)
 
 * Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams.
 	<b>Inferring Temporal Constraints from Natural Language API Descriptions.</b>
