@@ -34,7 +34,12 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
-	Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
+	Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
+	<b>TMAP: Discovering Relevant API Methods through Text Mining of API Documentation</b>
+	_To appear: Journal of Software - Special Issue, SCAM 2015._   
+    
+    
+* Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
 	_To appear: FSE: Visions and Reflections Track 2016._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/barikFseVar.pdf)
