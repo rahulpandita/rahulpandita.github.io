@@ -37,7 +37,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
 	<b>TMAP: Discovering Relevant API Methods through Text Mining of API Documentation</b>
 	_To appear: Journal of Software - Special Issue, SCAM 2015._   
-    
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/SCAMSpecialIssue2015.pdf)
     
 * Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
