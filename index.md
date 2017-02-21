@@ -7,7 +7,7 @@ layout: default
 
 Hi all…
 
-I am Rahul Pandita, a _senior reseach scientist_ at [Phase Change Software](http://phasechangesoftware.com/).
+I am Rahul Pandita, a _senior research scientist_ at [Phase Change Software](http://phasechangesoftware.com/).
 Previously, I worked as a postdoctoral researcher at [Department of Computer Science NCSU](http://www.csc.ncsu.edu/) working with [Dr. Laurie Williams](http://collaboration.csc.ncsu.edu/laurie/) and [Dr. Munindar Singh](http://www.csc.ncsu.edu/faculty/mpsingh/).
 I received my [PhD.](./files/diploma.pdf) from [NCSU](http://www.csc.ncsu.edu/) in Computer Science.
 I like to travel, love to sketch, and enjoy music. Learning to me is a never ending process.
@@ -36,8 +36,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
 	Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
 	<b>TMAP: Discovering Relevant API Methods through Text Mining of API Documentation</b>
-	_To appear: Journal of Software - Special Issue, SCAM 2015._   
-    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/SCAMSpecialIssue2015.pdf)
+	_To appear: Journal of Software - Special Issue, SCAM 2015._
     
 * Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
