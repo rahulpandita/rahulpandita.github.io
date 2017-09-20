@@ -34,28 +34,34 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
-	Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
+	Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
+	<b>Are vulnerabilities discovered and resolved like otherdefects?</b>
+	_Empirical Software Engineering - 2017._
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://rdcu.be/v06B)
+    
+* Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
 	<b>TMAP: Discovering Relevant API Methods through Text Mining of API Documentation</b>
-	_To appear: Journal of Software - Special Issue, SCAM 2015._
+	_Journal of Software: Evolution and Process - Special Issue, SCAM 2017._
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://onlinelibrary.wiley.com/doi/10.1002/smr.1845/abstract)
     
 * Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
 	<b>Designing for Dystopia: Software Engineering Research for the Post-Apocalypse.</b>
-	_To appear: FSE: Visions and Reflections Track 2016._   
+	_FSE: Visions and Reflections Track 2016._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/barikFseVar.pdf)
 
 * Rahul Pandita, Kunal Taneja, Teresa Tung and Laurie Williams.
 	<b>Inferring Temporal Constraints from Natural Language API Descriptions.</b>
-	_To apper In Proceedings of the ICSME 2016._   
+	_In Proceedings of the ICSME 2016._   
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/panditaICSME2016.pdf)
 	
 * Patrick Morrison, Emerson Murphy-Hill, Rahul Pandita, and Anne McLaughlin.
 	<b>Veteran Developers’ Contributions and Motivations: An Open Source Perspective.</b>
-	_To apper In Proceedings of the VLHCC 2016._     
+	_In Proceedings of the VLHCC 2016._     
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/patVLHCC.pdf)
 	
 * Brittany Johnson, Rahul Pandita, Justin Smith, Denae Ford, Sarah Elder, Emerson Murphy-Hill, Sarah Heckman and Caitlin Sadowski.
 	<b>A Cross-Tool Communication Study on Program Analysis Tool Notifications.</b>
-	_To apper In Proceedings of the FSE 2016._   
+	_In Proceedings of the FSE 2016._   
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/brittanyFSE16.pdf)
 	
 * Rahul Pandita, Raoul Praful Jetley, Sithu D Sudarsan, and Laurie Williams.
