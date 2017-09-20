@@ -36,12 +36,12 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
 	Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
 	<b>Are vulnerabilities discovered and resolved like otherdefects?</b>
-	_Empirical Software Engineering - 2017._
+	_Empirical Software Engineering - 2017._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://rdcu.be/v06B)
     
 * Rahul Pandita, Sudarsan SD, Raoul Jetley, Tim Menzies, and Laurie Williams.
 	<b>TMAP: Discovering Relevant API Methods through Text Mining of API Documentation</b>
-	_Journal of Software: Evolution and Process - Special Issue, SCAM 2017._
+	_Journal of Software: Evolution and Process - Special Issue, SCAM 2017._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://onlinelibrary.wiley.com/doi/10.1002/smr.1845/abstract)
     
 * Titus Barik, Rahul Pandita, Justin Allen Middleton, and Emerson Murphy-Hill.
