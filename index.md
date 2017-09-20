@@ -132,14 +132,19 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* 32nd IEEE International Conference on Software Maintenance and Evolution -
+	* 33nd IEEE International Conference on Software Maintenance and Evolution -
+		<b>Industry Track</b>
+		[ICSME 2017](https://icsme2017.github.io/Program%20Committee.html)
+    * 32nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Industry Track</b>
 		[ICSME 2016](http://icsme2016.github.io/team/program-committee.html)"
 	* 3rd International Workshop on Programming for Mobile and Touch 
 		[PROMOTO 2015](http://www.promoto2015.org)
 
 * <b>Reviewer</b>: 
-	* Transactions on Software Engineering and Methodology (TOSEM)
+	* Journal of System and Software (JSS)
+    * Empirical Software Engineering (EMSE)
+    * Transactions on Software Engineering and Methodology (TOSEM)
     * Empirical Software Engineering (ESEM)
 
 * <b>External Reviewer</b>
