@@ -34,7 +34,12 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
-	Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
+	Rahul Pandita, Steven Bucuvalas, Hugolin Bergier, Aleksandar Chakarov, and Elizabeth Richards.
+	<b>Towards J.A.R.V.I.S. for Software Engineering: Lessons Learned in Implementing a Natural Language Chat Interface</b>
+	_NL4SE - 2018._   
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/JARVIS.pdf)
+    
+* Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
 	<b>Are vulnerabilities discovered and resolved like otherdefects?</b>
 	_Empirical Software Engineering - 2017._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](http://rdcu.be/v06B)
@@ -140,6 +145,9 @@ ____
 		[ICSME 2016](http://icsme2016.github.io/team/program-committee.html)"
 	* 3rd International Workshop on Programming for Mobile and Touch 
 		[PROMOTO 2015](http://www.promoto2015.org)
+
+* <b>Guest Editor 
+	* 2018 JCST Special Section on "Software Systems"
 
 * <b>Reviewer</b>: 
 	* Journal of System and Software (JSS)
