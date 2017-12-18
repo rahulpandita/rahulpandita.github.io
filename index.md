@@ -102,7 +102,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * Rahul Pandita, Tao Xie, Nikolai Tillmann, and Jonathan de Halleux.
 	<b>Guided Test Generation for Coverage Criteria</b>.
 	_In Proceedings of the 26th IEEE International Conference on Software Maintenance (ICSM 2010), Timisoara, Romania, September 2010._  
-	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icsm10.pdf")
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icsm10.pdf)
 	
 ### Other
 
@@ -128,7 +128,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * Rahul Pandita.
 	<b>Guided Test Generation for Coverage Criteria</b>.
 	_A Report for Qualfier Examination Nov 2010_. A previous version of this report was published in ICSM 2010  
-	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/Prelim_Report.pdf")
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/Prelim_Report.pdf)
 
 ____
 
@@ -137,17 +137,19 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* 33nd IEEE International Conference on Software Maintenance and Evolution -
+	* International Worshop on Software Fairness 
+        [FairWare 2018](http://fairware.cs.umass.edu/committees.html)
+    * 33nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Industry Track</b>
 		[ICSME 2017](https://icsme2017.github.io/Program%20Committee.html)
     * 32nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Industry Track</b>
-		[ICSME 2016](http://icsme2016.github.io/team/program-committee.html)"
+		[ICSME 2016](http://icsme2016.github.io/team/program-committee.html)
 	* 3rd International Workshop on Programming for Mobile and Touch 
 		[PROMOTO 2015](http://www.promoto2015.org)
 
 * <b>Guest Editor 
-	* 2018 JCST Special Section on "Software Systems"
+	* 2018 JCST Special Section on "[Software Systems](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)"
 
 * <b>Reviewer</b>: 
 	* Journal of System and Software (JSS)
