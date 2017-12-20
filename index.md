@@ -137,7 +137,10 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* International Worshop on Software Fairness 
+	* 34nd IEEE International Conference on Software Maintenance and Evolution -
+		<b>Industry Track</b>
+		[ICSME 2018](https://icsme2018.github.io/)
+    * International Worshop on Software Fairness 
         [FairWare 2018](http://fairware.cs.umass.edu/committees.html)
     * 33nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Industry Track</b>
