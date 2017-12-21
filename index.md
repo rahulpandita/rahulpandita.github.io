@@ -20,6 +20,11 @@ Contact me at rpandita ~ 'at' ~ phasechangesoftware ~ 'dot' ~ com.
 
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 
+###
+
+<img src="./img/announcement.png" title="CV" width="25" height="25" border="0"> Please consider submitting your testing work to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
+
+
 ### Curriculum Vitae 
 
 Linked is my CV. [<img src="./img/pdf.png" title="CV" width="25" height="25" border="0">](./files/rahulpandita.pdf)
