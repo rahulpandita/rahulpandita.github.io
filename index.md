@@ -14,15 +14,13 @@ I like to travel, love to sketch, and enjoy music. Learning to me is a never end
 And I believe that “There is so much more left to be done...”. 
 I strongly believe that there is always room for improvement ...
 
-Contact me at rpandita ~ 'at' ~ phasechangesoftware ~ 'dot' ~ com.
+Contact me at rpandita ~ 'at' ~ phasechange ~ 'dot' ~ ai.
 
 <hr>
 
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 
-###
-
-<img src="./img/announcement.png" title="CV" width="25" height="25" border="0"> Please consider submitting your testing work to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
+<img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your testing work to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
 
 
 ### Curriculum Vitae 
@@ -38,7 +36,7 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
-* <img src="./img/new.png" title="CV" width="25" height="25" border="0"> 
+* <img src="./img/new.png" title="New" width="25" height="25" border="0"> 
 	Rahul Pandita, Steven Bucuvalas, Hugolin Bergier, Aleksandar Chakarov, and Elizabeth Richards.
 	<b>Towards J.A.R.V.I.S. for Software Engineering: Lessons Learned in Implementing a Natural Language Chat Interface</b>
 	_NL4SE - 2018._   
