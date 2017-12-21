@@ -20,7 +20,8 @@ Contact me at rpandita ~ 'at' ~ phasechange ~ 'dot' ~ ai.
 
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 
-<img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your testing work to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
+* <img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your work on _software testing_ to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
+* <img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your  work _software fairness_ to [FairWare 2018](http://fairware.cs.umass.edu/index.html)
 
 
 ### Curriculum Vitae 
