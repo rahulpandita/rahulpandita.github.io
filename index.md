@@ -142,7 +142,7 @@ ____
 
 * <b>PC Member</b>: 
 	* 34nd IEEE International Conference on Software Maintenance and Evolution -
-		<b>Industry Track</b>
+		<b>Research Track</b> and <b>Industry Track</b>
 		[ICSME 2018](https://icsme2018.github.io/)
     * International Worshop on Software Fairness 
         [FairWare 2018](http://fairware.cs.umass.edu/committees.html)
