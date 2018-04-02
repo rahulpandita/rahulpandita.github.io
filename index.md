@@ -141,7 +141,10 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* 34nd IEEE International Conference on Software Maintenance and Evolution -
+	* 41st ACM/IEEE International Conference on Software Engineering - 
+        <b>NIER Track</b>
+        [ICSE 2019](https://conf.researchr.org/home/icse-2019)
+    * 34nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Research Track</b> and <b>Industry Track</b>
 		[ICSME 2018](https://icsme2018.github.io/)
     * International Worshop on Software Fairness 
