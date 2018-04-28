@@ -21,7 +21,6 @@ Contact me at rpandita ~ 'at' ~ phasechange ~ 'dot' ~ ai.
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 
 * <img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your work on _software testing_ to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
-* <img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your  work _software fairness_ to [FairWare 2018](http://fairware.cs.umass.edu/index.html)
 
 
 ### Curriculum Vitae 
@@ -38,7 +37,12 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="New" width="25" height="25" border="0"> 
-	Rahul Pandita, Steven Bucuvalas, Hugolin Bergier, Aleksandar Chakarov, and Elizabeth Richards.
+	Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
+	<b>Are vulnerabilities discovered and resolved like other defects?</b>
+	_ICSE 2018 * Journal first papers - 2018._   
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icse18JFP.pdf)
+    
+* Rahul Pandita, Steven Bucuvalas, Hugolin Bergier, Aleksandar Chakarov, and Elizabeth Richards.
 	<b>Towards J.A.R.V.I.S. for Software Engineering: Lessons Learned in Implementing a Natural Language Chat Interface</b>
 	_NL4SE - 2018._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/jarvis.pdf)
