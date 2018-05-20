@@ -172,9 +172,6 @@ ____
     * Empirical Software Engineering (ESEM)
 
 * <b>External Reviewer</b>
-	* UbiComp’14, DSN’13, Journal for Empirical Software Engineering’14
-
-* <b>Co-Reviewer</b>
-	* WWW’13, ICSE’11, FSE’13, ASE’10’14
+	* QEST'18, UbiComp’14, ASE'14, FSE’13, WWW’13, DSN’13, ICSE’11, ASE'10
 
 ____
