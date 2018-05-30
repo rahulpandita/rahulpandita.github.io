@@ -37,7 +37,12 @@ My primary research interests are in programming languages and software engineer
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
 * <img src="./img/new.png" title="New" width="25" height="25" border="0"> 
-	Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
+	Patrick Morrison, David Moye, Rahul Pandita, and Laurie Williams.
+	<b>Mapping the Field of Software Development Security Metrics</b>
+	_To appear in ELSEVIER Information and Software Technology Journal 2018._   
+    
+    
+* Patrick Morrison, Rahul Pandita, Xusheng Xiao, Ram Chillarege, and Laurie Williams.
 	<b>Are vulnerabilities discovered and resolved like other defects?</b>
 	_ICSE 2018 * Journal first papers - 2018._   
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icse18JFP.pdf)
