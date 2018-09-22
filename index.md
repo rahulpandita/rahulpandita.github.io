@@ -157,6 +157,8 @@ ____
 	* 41st ACM/IEEE International Conference on Software Engineering -
         <b>NIER Track</b>
         [ICSE 2019](https://conf.researchr.org/home/icse-2019)
+    * International Workshop on AI and Data Mining for Services (ADMS) 
+        [ADMS 2018](https://sites.google.com/view/servicemining/home) 
     * 34nd IEEE International Conference on Software Maintenance and Evolution -
 		<b>Research Track</b> and <b>Industry Track</b>
 		[ICSME 2018](https://icsme2018.github.io/)
