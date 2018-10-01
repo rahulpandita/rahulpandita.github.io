@@ -36,10 +36,10 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
-* <img src="./img/new.png" title="New" width="25" height="25" border="0"> 
-	Rahul Pandita, Chris Parnin, Felienne Hermans and Emerson Murphy-Hill.
+* Rahul Pandita, Chris Parnin, Felienne Hermans and Emerson Murphy-Hill.
 	<b>No half-measures: A study of manual and tool-assisted end-user programming tasks in Excel</b>
-	_To appear in VLHCC 2018._   
+	_VLHCC 2018._   
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/excelVLHCC18.pdf)   
        
 * Patrick Morrison, David Moye, Rahul Pandita, and Laurie Williams.
 	<b>Mapping the Field of Software Development Security Metrics</b>
