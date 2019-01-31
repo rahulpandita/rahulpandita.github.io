@@ -36,7 +36,7 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
-* Souti Chattopadhyay,Nicholas Nelson, Yenifer Ramirez Gonzalez, Annel Amelia Leon, Rahul Pandita and Anita Sarma.
+* Souti Chattopadhyay, Nicholas Nelson, Yenifer Ramirez Gonzalez, Annel Amelia Leon, Rahul Pandita, and Anita Sarma.
 	<b>Latent Patterns in Activities: A Field Study of How Developers Manage Context.</b>
 	<i>To appear inProceedings of 41st ACM/IEEE ICSE 2019.</i>
 	
