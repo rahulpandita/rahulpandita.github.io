@@ -36,6 +36,10 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
+* Souti Chattopadhyay,Nicholas Nelson, Yenifer Ramirez Gonzalez, Annel Amelia Leon, Rahul Pandita and Anita Sarma.
+	<b>Latent Patterns in Activities: A Field Study of How Developers Manage Context.</b>
+	<i>To appear inProceedings of 41st ACM/IEEE ICSE 2019.</i>
+	
 * Rahul Pandita, Chris Parnin, Felienne Hermans and Emerson Murphy-Hill.
 	<b>No half-measures: A study of manual and tool-assisted end-user programming tasks in Excel</b>
 	_VLHCC 2018._   
@@ -122,6 +126,11 @@ I specifically work on applying [Natural Language Processing techniques on softw
 	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/icsm10.pdf)
 	
 ### Other
+
+* Pankaj R Telang, Anup K Kalia, Maja Vukovic, Rahul Pandita, and Munindar P Singh.
+	<b>A Conceptual Framework for Engineering Chatbots</b>
+	_In Journal of IEEE Internet Computing 2019._  
+	[<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](https://ieeexplore.ieee.org/abstract/document/8625898)
 
 * Rahul Pandita.
 	<b>Inferring Semantic Information from Natural-Language Software Artifacts</b>.
