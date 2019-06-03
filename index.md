@@ -164,7 +164,10 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* 41st ACM/IEEE International Conference on Software Engineering -
+	* 13th ACM Innovations in Software Engineering Conference -
+        <b>ResearchTrack</b>
+        [ISEC 2020](https://isoft.acm.org/isec2020/)
+    * 41st ACM/IEEE International Conference on Software Engineering -
         <b>NIER Track</b>
         [ICSE 2019](https://conf.researchr.org/home/icse-2019)
     * International Workshop on AI and Data Mining for Services (ADMS) 
