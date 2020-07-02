@@ -23,8 +23,6 @@ Contact me at rpandita ~ 'at' ~ phasechange ~ 'dot' ~ ai.
 
 <a name="cv" class="anchor" href="#cv"><span class="octicon octicon-link"></span></a>
 
-* <img src="./img/announcement.png" title="Announcement" width="25" height="25" border="0"> Please consider submitting your work on _software testing_ to [JCST Special Section on Software Systems 2018](http://jcst.ict.ac.cn:8080/jcst/EN/column/item166.shtml)
-
 
 ### Curriculum Vitae 
 
@@ -39,6 +37,11 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
+* Souti Chattopadhyay, Nicholas Nelson, Audrey Au, Natalia Morales, Christopher Sanchez, Rahul Pandita, Anita Sarma.
+	<b>A Tale from the Trenches: Cognitive Biases and Software Development.</b>
+	_42st ACM/IEEE ICSE 2020._ <img src="./img/announcement.png" title="Announcement" width="15" height="15" border="0"><b>ACM SIGSOFT Distinguished Paper Award</b>    
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/riniICSE2020.pdf)
+	
 * Souti Chattopadhyay, Nicholas Nelson, Yenifer Ramirez Gonzalez, Annel Amelia Leon, Rahul Pandita, and Anita Sarma.
 	<b>Latent Patterns in Activities: A Field Study of How Developers Manage Context.</b>
 	_41st ACM/IEEE ICSE 2019._   
