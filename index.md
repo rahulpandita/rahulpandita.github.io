@@ -171,15 +171,24 @@ ____
 ### Activities
 
 * <b>PC Member</b>: 
-	* 42nd ACM/IEEE International Conference on Software Engineering -
+    * 14th Innovations in Software Engineering Conference -
+        <b>Research Track</b>
+        [ISEC 2021](https://isoft.acm.org/isec2021/)
+    * 36th IEEE International Conference on Software Maintenance and Evolution -
+	<b>Reseach Track</b>
+	[ICSME 2020](https://icsme2020.github.io/)
+    * 35th IEEE/ACM International Conference on Automated Software Engineering. -
+	<b>Reseach Track</b>
+	[ASE 2020](https://conf.researchr.org/home/ase-2020)
+    * 42nd ACM/IEEE International Conference on Software Engineering -
         <b>SEIS Track</b>
         [ICSE 2020](https://conf.researchr.org/track/icse-2020/icse-2020-Software-Engineering-in-Society)
     * 13th ACM Innovations in Software Engineering Conference -
         <b>Research Track</b>
         [ISEC 2020](https://isoft.acm.org/isec2020/)
     * 35nd IEEE International Conference on Software Maintenance and Evolution -
-		<b>Industry Track</b>
-		[ICSME 2019](https://icsme2019.github.io/)
+	<b>Industry Track</b>
+	[ICSME 2019](https://icsme2019.github.io/)
     * 41st ACM/IEEE International Conference on Software Engineering -
         <b>NIER Track</b>
         [ICSE 2019](https://conf.researchr.org/home/icse-2019)
