@@ -40,7 +40,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * Souti Chattopadhyay, Nicholas Nelson, Audrey Au, Natalia Morales, Christopher Sanchez, Rahul Pandita, Anita Sarma.
 	<b>A Tale from the Trenches: Cognitive Biases and Software Development.</b>
 	_42st ACM/IEEE ICSE 2020._    
-    <img src="./img/announcement.png" title="Announcement" width="15" height="15" border="0"><b>ACM SIGSOFT Distinguished Paper Award</b>    
+    <img src="./img/announcement.png" title="Announcement" width="15" height="15" border="0"><b>[ACM SIGSOFT Distinguished Paper Award](./files/DPA-ATalefromtheTrenches_CognitiveBiasesandSoftwareDevelopment.pdf)</b>    
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](./files/riniICSE2020.pdf)
 	
 * Souti Chattopadhyay, Nicholas Nelson, Yenifer Ramirez Gonzalez, Annel Amelia Leon, Rahul Pandita, and Anita Sarma.
