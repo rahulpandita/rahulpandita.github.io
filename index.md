@@ -37,6 +37,11 @@ ____
 My primary research interests are in programming languages and software engineering.
 I specifically work on applying [Natural Language Processing techniques on software artifacts to improve developer/tester/end-user productivity](http://repository.lib.ncsu.edu/ir/bitstream/1840.16/10538/1/etd.pdf).
 
+* Agnieszka Ciborowska, Aleksandar Chakarov and Rahul Pandita.
+	<b>Contemporary COBOL: Developers’ Perspectives on Defects and Defect Location.</b>
+	_37th ICSME 2021._    
+    [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](https://arxiv.org/abs/2105.01830)
+	
 * Souti Chattopadhyay, Nicholas Nelson, Audrey Au, Natalia Morales, Christopher Sanchez, Rahul Pandita, Anita Sarma.
 	<b>A Tale from the Trenches: Cognitive Biases and Software Development.</b>
 	_42st ACM/IEEE ICSE 2020._    
