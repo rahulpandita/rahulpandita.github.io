@@ -40,6 +40,7 @@ I specifically work on applying [Natural Language Processing techniques on softw
 * Agnieszka Ciborowska, Aleksandar Chakarov and Rahul Pandita.
 	<b>Contemporary COBOL: Developers’ Perspectives on Defects and Defect Location.</b>
 	_37th ICSME 2021._    
+    <img src="./img/announcement.png" title="Announcement" width="15" height="15" border="0"><b>[IEEE TCSE Distinguished Paper Award](./files/awd.pdf)</b>    
     [<img src="./img/pdf.png" title="draft" width="25" height="25" border="0">](https://arxiv.org/abs/2105.01830)
 	
 * Souti Chattopadhyay, Nicholas Nelson, Audrey Au, Natalia Morales, Christopher Sanchez, Rahul Pandita, Anita Sarma.
